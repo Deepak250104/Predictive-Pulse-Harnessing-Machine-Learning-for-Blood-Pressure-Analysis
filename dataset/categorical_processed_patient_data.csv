@@ -1,0 +1,1826 @@
+Age,Severity,Whendiagnoused,Systolic,Diastolic,Stages,Gender,History,Patient,TakeMedication,BreathShortness,VisualChanges,NoseBleeding,ControlledDiet
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+35-50,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+51-64,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Severe,<1 Year,100+,130+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+65+,Severe,<1 Year,100+,130+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+35-50,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,130+,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+18-34,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,130+,91 - 100,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+18-34,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,Yes,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,130+,81 - 90,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,Yes,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+65+,Severe,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Moderate,<1 Year,130+,100+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Severe,<1 Year,100+,130+,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,No,No,Yes
+65+,Severe,<1 Year,100+,130+,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,No,No,Yes
+35-50,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+35-50,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,1 - 5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,121 - 130,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Mild,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+18-34,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,No,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,No,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,No,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,No,Yes,Yes,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+65+,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+18-34,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,No,Yes
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,Yes,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,Yes,No,No,No
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+65+,Moderate,<1 Year,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,<1 Year,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,Yes,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,Yes,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+65+,Severe,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,Yes,No,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,Yes,No,No,No
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,No,No,No
+65+,Mild,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,Yes,No,Yes,No,No
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,Yes,No,Yes,No,No
+18-34,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,1 - 5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,111 - 120,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,111 - 120,100+,HYPERTENSIVE CRISIS,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,121 - 130,81 - 90,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,121 - 130,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Severe,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51-64,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+35-50,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65+,Moderate,>5 Years,111 - 120,91 - 100,HYPERTENSION (Stage-2),Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+18-34,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,130+,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,130+,91 - 100,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,121 - 130,100+,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,130+,81 - 90,HYPERTENSION (Stage-1),Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,<1 Year,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,1 - 5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Mild,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Moderate,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,No,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,No,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+18-34,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+35-50,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+51-64,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Male,Yes,No,No,No,No,No,No
+65+,Severe,>5 Years,111 - 120,70 - 80,NORMAL,Female,Yes,No,No,No,No,No,No
