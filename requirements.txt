@@ -3,7 +3,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-SCIPY
-pickle-mixin
+scipy
 flask
 pickle

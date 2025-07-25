@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter Details for Prediction</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 2.5rem;
+            border-radius: 1.5rem;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+        h1 {
+            color: #1a202c;
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            font-weight: 700;
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 1.25rem;
+        }
+        label {
+            display: block;
+            color: #4a5568;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+        }
+        select, input[type="text"] {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #cbd5e0;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            color: #2d3748;
+            background-color: #edf2f7;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+        select:focus, input[type="text"]:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2);
+        }
+        .btn-submit {
+            width: 100%;
+            background-color: #4c51bf;
+            color: #ffffff;
+            padding: 0.9rem 2rem;
+            border-radius: 0.75rem;
+            font-weight: 600;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            box-shadow: 0 4px 10px rgba(76, 81, 191, 0.3);
+            border: none;
+        }
+        .btn-submit:hover {
+            background-color: #3e4491;
+            transform: translateY(-2px);
+        }
+        .nav-link {
+            display: inline-block;
+            background-color: #6b7280;
+            color: #ffffff;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background-color 0.3s ease;
+            margin-bottom: 1.5rem;
+        }
+        .nav-link:hover {
+            background-color: #4b5563;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="nav-link">Back to Home</a>
+        <h1>Enter Patient Details</h1>
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="Age">Age:</label>
+                <select id="Age" name="Age" required>
+                    <option value="">Select Age Group</option>
+                    <option value="18-34">18-34</option>
+                    <option value="35-50">35-50</option>
+                    <option value="51-64">51-64</option>
+                    <option value="65+">65+</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Severity">Severity:</label>
+                <select id="Severity" name="Severity" required>
+                    <option value="">Select Severity</option>
+                    <option value="Mild">Mild</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Severe">Severe</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Whendiagnoused">When Diagnosed:</label>
+                <select id="Whendiagnoused" name="Whendiagnoused" required>
+                    <option value="">Select Diagnosis Time</option>
+                    <option value="<1 Year">&lt;1 Year</option>
+                    <option value="1 - 5 Years">1 - 5 Years</option>
+                    <option value=">5 Years">&gt;5 Years</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Systolic">Systolic Blood Pressure:</label>
+                <select id="Systolic" name="Systolic" required>
+                    <option value="">Select Systolic Range</option>
+                    <option value="100+">100+</option>
+                    <option value="111 - 120">111 - 120</option>
+                    <option value="121 - 130">121 - 130</option>
+                    <option value="130+">130+</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Diastolic">Diastolic Blood Pressure:</label>
+                <select id="Diastolic" name="Diastolic" required>
+                    <option value="">Select Diastolic Range</option>
+                    <option value="70 - 80">70 - 80</option>
+                    <option value="81 - 90">81 - 90</option>
+                    <option value="91 - 100">91 - 100</option>
+                    <option value="100+">100+</option>
+                    <option value="130+">130+</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Gender">Gender:</label>
+                <select id="Gender" name="Gender" required>
+                    <option value="">Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="History">Family History of BP:</label>
+                <select id="History" name="History" required>
+                    <option value="">Select Option</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Patient">Existing Patient:</label>
+                <select id="Patient" name="Patient" required>
+                    <option value="">Select Option</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="TakeMedication">Taking Medication:</label>
+                <select id="TakeMedication" name="TakeMedication" required>
+                    <option value="">Select Option</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="BreathShortness">Breath Shortness:</label>
+                <select id="BreathShortness" name="BreathShortness" required>
+                    <option value="">Select Option</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="VisualChanges">Visual Changes:</label>
+                <select id="VisualChanges" name="VisualChanges" required>
+                    <option value="">Select Option</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="NoseBleeding">Nose Bleeding:</label>
+                <select id="NoseBleeding" name="NoseBleeding" required>
+                    <option value="">Select Option</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="ControlledDiet">On Controlled Diet:</label>
+                <select id="ControlledDiet" name="ControlledDiet" required>
+                    <option value="">Select Option</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn-submit">Get Prediction</button>
+        </form>
+    </div>
+</body>
+</html>
