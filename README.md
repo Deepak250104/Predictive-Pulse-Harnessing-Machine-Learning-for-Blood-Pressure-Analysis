@@ -119,10 +119,11 @@ project-root/
 │   ├── decision_tree_model.pkl
 │   ├── gaussian_nb_model.pkl
 │   └── multinomial_nb_model.pkl
-├── data_preprocessing.ipynb
-├── eda.ipynb
-├── model_training.ipynb
-├── model_evaluation.ipynb
+├── notebooks/
+|   ├── data_preprocessing.ipynb
+|   ├── eda.ipynb
+|   ├── model_training.ipynb
+|   ├── model_evaluation.ipynb
 ├── requirements.txt
 └── README.md
 ```
