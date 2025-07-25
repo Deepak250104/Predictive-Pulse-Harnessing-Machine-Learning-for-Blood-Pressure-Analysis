@@ -126,7 +126,118 @@ project-root/
 ├── requirements.txt
 └── README.md
 ```
+## Model Evaluation Results on Test Set
 
+Test dataset size: 365 samples
+
+### Logistic Regression
+
+- **Accuracy:** 0.9726
+- **Classification Report:**
+
+| Class | Precision | Recall | F1-Score | Support |
+| :-- | :-- | :-- | :-- | :-- |
+| 0.0 | 1.00 | 1.00 | 1.00 | 67 |
+| 1.0 | 1.00 | 1.00 | 1.00 | 130 |
+| 2.0 | 1.00 | 0.92 | 0.96 | 120 |
+| 3.0 | 0.83 | 1.00 | 0.91 | 48 |
+
+- **Confusion Matrix:**
+
+```
+[[ 67  0   0   0 ]
+ [  0 130  0   0 ]
+ [  0  0  110 10 ]
+ [  0  0   0  48 ]]
+```
+
+
+### Random Forest
+
+- **Accuracy:** 1.0000
+- **Classification Report:**
+
+| Class | Precision | Recall | F1-Score | Support |
+| :-- | :-- | :-- | :-- | :-- |
+| 0.0 | 1.00 | 1.00 | 1.00 | 67 |
+| 1.0 | 1.00 | 1.00 | 1.00 | 130 |
+| 2.0 | 1.00 | 1.00 | 1.00 | 120 |
+| 3.0 | 1.00 | 1.00 | 1.00 | 48 |
+
+- **Confusion Matrix:**
+
+```
+[[ 67  0   0   0 ]
+ [  0 130  0   0 ]
+ [  0  0  120  0 ]
+ [  0  0   0  48 ]]
+```
+
+
+### Decision Tree
+
+- **Accuracy:** 1.0000
+- **Classification Report:**
+
+| Class | Precision | Recall | F1-Score | Support |
+| :-- | :-- | :-- | :-- | :-- |
+| 0.0 | 1.00 | 1.00 | 1.00 | 67 |
+| 1.0 | 1.00 | 1.00 | 1.00 | 130 |
+| 2.0 | 1.00 | 1.00 | 1.00 | 120 |
+| 3.0 | 1.00 | 1.00 | 1.00 | 48 |
+
+- **Confusion Matrix:**
+
+```
+[[ 67  0   0   0 ]
+ [  0 130  0   0 ]
+ [  0  0  120  0 ]
+ [  0  0   0  48 ]]
+```
+
+
+### Gaussian Naive Bayes
+
+- **Accuracy:** 0.8849
+- **Classification Report:**
+
+| Class | Precision | Recall | F1-Score | Support |
+| :-- | :-- | :-- | :-- | :-- |
+| 0.0 | 1.00 | 1.00 | 1.00 | 67 |
+| 1.0 | 1.00 | 1.00 | 1.00 | 130 |
+| 2.0 | 1.00 | 0.65 | 0.79 | 120 |
+| 3.0 | 0.53 | 1.00 | 0.70 | 48 |
+
+- **Confusion Matrix:**
+
+```
+[[ 67  0   0   0 ]
+ [  0 130  0   0 ]
+ [  0  0   78  42 ]
+ [  0  0   0   48 ]]
+```
+
+
+### Multinomial Naive Bayes
+
+- **Accuracy:** 0.9041
+- **Classification Report:**
+
+| Class | Precision | Recall | F1-Score | Support |
+| :-- | :-- | :-- | :-- | :-- |
+| 0.0 | 1.00 | 1.00 | 1.00 | 67 |
+| 1.0 | 1.00 | 1.00 | 1.00 | 130 |
+| 2.0 | 1.00 | 0.71 | 0.83 | 120 |
+| 3.0 | 0.58 | 1.00 | 0.73 | 48 |
+
+- **Confusion Matrix:**
+
+```
+[[ 67  0   0   0 ]
+ [  0 130  0   0 ]
+ [  0  0   85  35 ]
+ [  0  0   0   48 ]]
+```
 
 ## End-to-End Workflow Summary
 
@@ -140,15 +251,3 @@ project-root/
 → Reload and score each classifier on a reserved test set, using multiple metrics and confusion matrices.
 5. **Compare \& select**
 → Choose the top-performing classifier for deployment or further study.
-
-## Best Practices \& Tips
-
-- Always ensure new or deployment data is preprocessed with the same pipeline used in development, for reproducible inference.
-- Store both the fitted preprocessor and each trained model to guarantee end-to-end compatibility.
-- Keep code modular and notebooks well-commented; this aids error handling and collaboration.
-- Document results and configuration (random seeds, feature selection, split logic) for scientific rigor.
-
-This Markdown serves as a clear technical explanation and project map, navigable by both ML developers and reviewers.
-Let me know if you need a more specific README.md, workflow chart, or code template for any notebook phase.
-
-<div style="text-align: center">⁂</div>
