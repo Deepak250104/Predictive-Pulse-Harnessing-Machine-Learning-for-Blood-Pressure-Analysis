@@ -279,4 +279,4 @@ On this page, users input various patient details.
 
 After submitting details, users are presented with the blood pressure analysis results.
 
-![Prediction Results Page](web_interface_images/results.png "The page displaying the prediction results.")
+![Prediction Results Page](web_interface_images/result.png "The page displaying the prediction results.")
