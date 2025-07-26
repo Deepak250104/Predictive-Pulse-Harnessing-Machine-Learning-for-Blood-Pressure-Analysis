@@ -124,6 +124,17 @@ project-root/
 |   ├── eda.ipynb
 |   ├── model_training.ipynb
 |   ├── model_evaluation.ipynb
+├── src/
+│   ├── app.py
+|   └──templates/
+│      ├── index.html
+│      ├── details.html
+│      └── prediction.html
+├── web_interface_images/
+|   ├── index.png
+│   ├── details1.png
+|   ├── details2.png
+│   └── result.png
 ├── requirements.txt
 └── README.md
 ```
