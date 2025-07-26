@@ -252,3 +252,31 @@ Test dataset size: 365 samples
 → Reload and score each classifier on a reserved test set, using multiple metrics and confusion matrices.
 5. **Compare \& select**
 → Choose the top-performing classifier for deployment or further study.
+
+# Web Interface
+
+This section provides a visual overview of the web interface for the Blood Pressure Analysis application.
+
+### 1. Index Page (`index.html`)
+
+This is the main landing page of the application, where users can initiate the process.
+
+![Index Page Screenshot](web_interface_images/index.png "The initial page where users start.")
+
+### 2. Details Page (`details.html`)
+
+On this page, users input various patient details.
+
+#### Input Section 1
+
+![Details Page Input Section 1](web_interface_images/details1.png "First part of the details form.")
+
+#### Input Section 2
+
+![Details Page Input Section 2](web_interface_images/details2.png "Second part of the details form.")
+
+### 3. Prediction Results Page (`prediction.html`)
+
+After submitting details, users are presented with the blood pressure analysis results.
+
+![Prediction Results Page](web_interface_images/results.png "The page displaying the prediction results.")
